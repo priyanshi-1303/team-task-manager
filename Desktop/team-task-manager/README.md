@@ -22,7 +22,7 @@ A full stack Team Task Manager web app built using React, Node.js and MongoDB co
 
 ## Live Demo
 
-https://team-task-manager-5usa.vercel.app
+https://team-task-manager-8ztx.vercel.app/
 
 ## GitHub Repository
 
